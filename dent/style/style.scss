@@ -282,8 +282,8 @@ $blueColor:#46b1de;
   }
   .cards {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(2, 1fr);
     max-width: 1020px;
     min-height: 396px;
     margin-left: auto;
